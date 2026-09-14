@@ -1,0 +1,12 @@
+# Cursor authoring files — not part of the public site
+_ds/
+.thumbnail
+support.js
+uploads/
+*.dc.html
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.verify-*.png
